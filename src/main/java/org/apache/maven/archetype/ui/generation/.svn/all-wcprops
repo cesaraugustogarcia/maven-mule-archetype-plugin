@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation
+END
+DefaultArchetypeGenerationQueryer.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/DefaultArchetypeGenerationQueryer.java
+END
+ArchetypeGenerationConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/ArchetypeGenerationConfigurator.java
+END
+ArchetypeSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/ArchetypeSelector.java
+END
+ArchetypeSelectorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/ArchetypeSelectorUtils.java
+END
+ArchetypeSelectionQueryer.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/ArchetypeSelectionQueryer.java
+END
+DefaultArchetypeGenerationConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/DefaultArchetypeGenerationConfigurator.java
+END
+DefaultArchetypeSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/DefaultArchetypeSelector.java
+END
+DefaultArchetypeSelectionQueryer.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/DefaultArchetypeSelectionQueryer.java
+END
+ArchetypeGenerationQueryer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/ArchetypeGenerationQueryer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/generation/package.html
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/src/test/resources/projects/basic/reference/src/main/resources
+END
+test-basic.properties
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/src/test/resources/projects/basic/reference/src/main/resources/test-basic.properties
+END

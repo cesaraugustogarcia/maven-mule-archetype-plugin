@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/property-setting-cli/src/test/resources/projects/basic
+END
+archetype.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/property-setting-cli/src/test/resources/projects/basic/archetype.properties
+END
+goal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/property-setting-cli/src/test/resources/projects/basic/goal.txt
+END
+verify.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/property-setting-cli/src/test/resources/projects/basic/verify.groovy
+END

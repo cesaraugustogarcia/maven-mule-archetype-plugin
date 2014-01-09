@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/create-from-project
+END
+verify.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/create-from-project/verify.bsh
+END
+goals.txt
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/create-from-project/goals.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/create-from-project/pom.xml
+END

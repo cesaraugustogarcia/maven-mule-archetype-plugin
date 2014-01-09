@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype
+END
+verify.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/verify.bsh
+END
+goals.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/goals.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/pom.xml
+END
+test-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/test-settings.xml
+END

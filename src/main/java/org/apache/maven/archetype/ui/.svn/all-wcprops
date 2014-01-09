@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui
+END
+DefaultArchetypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/DefaultArchetypeFactory.java
+END
+ArchetypeConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/ArchetypeConfiguration.java
+END
+ArchetypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/ArchetypeFactory.java
+END
+ArchetypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/ArchetypeDefinition.java
+END
+ArchetypePrompter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/ArchetypePrompter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/ui/package.html
+END

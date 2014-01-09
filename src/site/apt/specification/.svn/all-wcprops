@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification
+END
+archetype-catalog.apt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/archetype-catalog.apt
+END
+specification.apt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/specification.apt
+END
+archetype-metadata.apt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/archetype-metadata.apt
+END
+archetype.apt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/archetype.apt
+END
+crawl-repository.apt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/crawl-repository.apt
+END
+create-from-project.apt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/create-from-project.apt
+END
+generate.apt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/generate.apt
+END
+update-catalog.apt
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/site/apt/specification/update-catalog.apt
+END

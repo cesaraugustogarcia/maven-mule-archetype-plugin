@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/java/org/apache/maven/archetype/ui/generation
+END
+DefaultArchetypeGenerationConfiguratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/java/org/apache/maven/archetype/ui/generation/DefaultArchetypeGenerationConfiguratorTest.java
+END
+DefaultArchetypeSelectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/java/org/apache/maven/archetype/ui/generation/DefaultArchetypeSelectorTest.java
+END
+DefaultArchetypeSelectionQueryerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/java/org/apache/maven/archetype/ui/generation/DefaultArchetypeSelectionQueryerTest.java
+END
+RequiredPropertyComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/java/org/apache/maven/archetype/ui/generation/RequiredPropertyComparatorTest.java
+END

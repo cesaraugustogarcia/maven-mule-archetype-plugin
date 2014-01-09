@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/projects/sibling-dependency/a
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/projects/sibling-dependency/a/pom.xml
+END

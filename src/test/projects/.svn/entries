@@ -1,0 +1,37 @@
+10
+
+dir
+1556896
+http://svn.apache.org/repos/asf/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/test/projects
+http://svn.apache.org/repos/asf
+
+
+
+2009-11-07T18:28:39.672003Z
+833728
+bentmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+sibling-dependency
+dir
+
+simple-inheritence
+dir
+
+deep-inheritence
+dir
+

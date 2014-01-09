@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/src/main/resources/archetype-resources/src/main/resources
+END
+test-__artifactId__.properties
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/it/build-archetype/src/main/resources/archetype-resources/src/main/resources/test-__artifactId__.properties
+END

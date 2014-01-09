@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos
+END
+FileLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/FileLogger.java
+END
+MavenArchetypeMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/MavenArchetypeMojo.java
+END
+JarMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/JarMojo.java
+END
+CleanMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/CleanMojo.java
+END
+CreateArchetypeFromProjectMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/CreateArchetypeFromProjectMojo.java
+END
+CreateProjectFromArchetypeMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/CreateProjectFromArchetypeMojo.java
+END
+IntegrationTestMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/IntegrationTestMojo.java
+END
+CrawlRepositoryMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/CrawlRepositoryMojo.java
+END
+UpdateLocalCatalogMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1203973/maven/archetype/tags/maven-archetype-2.2/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos/UpdateLocalCatalogMojo.java
+END
